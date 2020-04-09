@@ -1,0 +1,13 @@
+C:\Users\luisl\OneDrive\Área de Trabalho\errs\Git\Jogo\Jogo\bin\Debug\netcoreapp3.1\Jogo.exe
+C:\Users\luisl\OneDrive\Área de Trabalho\errs\Git\Jogo\Jogo\bin\Debug\netcoreapp3.1\Jogo.deps.json
+C:\Users\luisl\OneDrive\Área de Trabalho\errs\Git\Jogo\Jogo\bin\Debug\netcoreapp3.1\Jogo.runtimeconfig.json
+C:\Users\luisl\OneDrive\Área de Trabalho\errs\Git\Jogo\Jogo\bin\Debug\netcoreapp3.1\Jogo.runtimeconfig.dev.json
+C:\Users\luisl\OneDrive\Área de Trabalho\errs\Git\Jogo\Jogo\bin\Debug\netcoreapp3.1\Jogo.dll
+C:\Users\luisl\OneDrive\Área de Trabalho\errs\Git\Jogo\Jogo\bin\Debug\netcoreapp3.1\Jogo.pdb
+C:\Users\luisl\OneDrive\Área de Trabalho\errs\Git\Jogo\Jogo\obj\Debug\netcoreapp3.1\Jogo.csprojAssemblyReference.cache
+C:\Users\luisl\OneDrive\Área de Trabalho\errs\Git\Jogo\Jogo\obj\Debug\netcoreapp3.1\Jogo.csproj.CoreCompileInputs.cache
+C:\Users\luisl\OneDrive\Área de Trabalho\errs\Git\Jogo\Jogo\obj\Debug\netcoreapp3.1\Jogo.AssemblyInfoInputs.cache
+C:\Users\luisl\OneDrive\Área de Trabalho\errs\Git\Jogo\Jogo\obj\Debug\netcoreapp3.1\Jogo.AssemblyInfo.cs
+C:\Users\luisl\OneDrive\Área de Trabalho\errs\Git\Jogo\Jogo\obj\Debug\netcoreapp3.1\Jogo.dll
+C:\Users\luisl\OneDrive\Área de Trabalho\errs\Git\Jogo\Jogo\obj\Debug\netcoreapp3.1\Jogo.pdb
+C:\Users\luisl\OneDrive\Área de Trabalho\errs\Git\Jogo\Jogo\obj\Debug\netcoreapp3.1\Jogo.genruntimeconfig.cache
